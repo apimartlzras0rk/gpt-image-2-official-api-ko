@@ -1,0 +1,16 @@
+{
+  "id": "gpt-image-2-official",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:02Z",
+  "prices": {},
+  "rates": {
+    "text_input": 4,
+    "cached_text_input": 1,
+    "image_input": 6.4,
+    "cached_image_input": 1.6,
+    "image_output": 24
+  },
+  "unit": "usd_per_million_tokens",
+  "hook": "token-billed: text_input $4/M, cached_text_input $1/M, image_input $6.4/M, cached_image_input $1.6/M",
+  "model_page": "https://apimart.ai/model/gpt-image-2"
+}
